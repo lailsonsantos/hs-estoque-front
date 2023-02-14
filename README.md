@@ -1,0 +1,1 @@
+# hs-estoque-front
