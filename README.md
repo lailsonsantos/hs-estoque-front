@@ -1,1 +1,2 @@
-# hs-estoque-front
+# HSEstoqueFront
+Sistema de estoque
